@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets / environment variables
+.env
+.env.*
+*.key
+*.pem
+
+# Private configuration
+config/
+
+# Logs
+logs/
+*.log
+
+# Temporary folders
+_quarantine/
+
+# Zip files
+*.zip*.session
+
+.venv_tg/
+*.session
+*.zip
+
+export_telegram_in/
+export_telegram_in 2/
